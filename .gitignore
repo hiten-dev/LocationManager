@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/LocationManager/bin
+/LocationManager/obj/Release/Package/PackageTmp/bin/roslyn
+/LocationManager/obj/Release/Package/PackageTmp/bin
+/LocationManager/obj/Release/Package/PackageTmp/Content
+/LocationManager/obj/Release/Package/PackageTmp
+/LocationManager/obj/Release
